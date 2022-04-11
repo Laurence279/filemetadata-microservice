@@ -1,1 +1,6 @@
-# [File Metadata Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice)
+# File Metadata Microservice
+
+## Usage
+
+POST
+```api/fileanalyse //Returns json with name, type and size of file uploaded```
